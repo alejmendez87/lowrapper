@@ -1,5 +1,5 @@
 {
-  "name": "mnvx/lowrapper",
+  "name": "alejmendez/lowrapper",
   "license": "MIT",
   "type": "library",
   "description": "PHP wrapper over LibreOffice converter",
@@ -7,7 +7,7 @@
   "homepage": "https://github.com/mnvx/lowrapper",
   "autoload": {
     "psr-4": {
-      "Mnvx\\Lowrapper\\": "src/"
+      "alejmendez\\Lowrapper\\": "src/"
     }
   },
   "require": {
